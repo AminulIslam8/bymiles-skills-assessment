@@ -1,0 +1,13 @@
+{
+  "video": false,
+  "defaultCommandTimeout": 5000,
+  "pageLoadTimeout": 10000,
+  "ignoreTestFiles": [
+    "*.js",
+    "*.md"
+  ],
+  "testFiles": "**/*.feature",
+  "baseUrl": "http://www.bymiles.co.uk",
+  "projectId": "go6pv3",
+  "chromeWebSecurity": true
+}
