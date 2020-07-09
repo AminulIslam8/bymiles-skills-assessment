@@ -6,3 +6,6 @@
 1. Please use the automation framework you are most comfortable with
 1. Provide any documentation to enable us to configure a development environment to run it 
 1. Please submit the test in a forked Github repository, sending a link to tech-recruitment@bymiles.co.uk
+
+
+Cypress Automation
